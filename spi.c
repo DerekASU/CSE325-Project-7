@@ -1,8 +1,8 @@
 //********************************************************************
 //		filename: spi.c
 //		Project 7
-//		Kevin Cabrera, Michael Zarate
-//		kevin.cabrera@asu.edu,   michael.zarate@asu.edu
+//		Derek Janzen
+//		djanzen@asu.edu
 //		CSE325	Embedded Microprocessor Systems
 //		Fall 2015
 //********************************************************************
